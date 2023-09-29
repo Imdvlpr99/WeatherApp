@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherAppp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor" >@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Theme.WeatherAppp" parent="Base.Theme.WeatherAppp" />
+
+    <style name="TextView" />
+    <style name="TextView.Bold18sp">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextView.Bold24sp">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="TextView.Bold54sp">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">54sp</item>
+    </style>
+    <style name="TextView.Bold64sp">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">64sp</item>
+    </style>
+    <style name="TextView.Bold16sp">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextView.SemiBold18sp">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextView.SemiBold22sp">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="TextView.SemiBold14sp">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextView.SemiBold16sp">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextView.Regular14sp">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextView.Regular16sp">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

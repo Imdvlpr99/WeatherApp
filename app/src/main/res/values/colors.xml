@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteSoft">#E8EEFB</color>
+    <color name="whiteUltraSoft">#F2E9FA</color>
+    <color name="whiteBackground">#F8F7FD</color>
+    <color name="blackSoft">#161D2B</color>
+    <color name="blackMain">#010006</color>
+    <color name="blackUltraSoft">#272727</color>
+    <color name="blackWeatherInfo">#29292B</color>
+    <color name="whiteMain">#FAFCFF</color>
+    <color name="whiteBg">#F2F4FC</color>
+    <color name="blackBg">#111520</color>
+    <color name="pinkSoft">#FF84B4</color>
+    <color name="blueSoft">#8C9FE3</color>
+    <color name="pink">#E85CBD</color>
+    <color name="yellowSoft">#FCB8A1</color>
+    <color name="purple">#B32CEB</color>
+    <color name="blue">#5896FD</color>
+</resources>
